@@ -1,0 +1,1306 @@
+{
+  "asn": "AS26383",
+  "name": "Baxet Group Inc.",
+  "country": "US",
+  "allocated": "2022-09-26",
+  "registry": "arin",
+  "domain": "baxetgroup.com",
+  "num_ips": 30464,
+  "type": "hosting",
+  "prefixes": [
+    {
+      "netblock": "103.136.150.0/24",
+      "id": "XDEER-HK",
+      "name": "Xdeer Limited",
+      "country": "HK",
+      "size": "256",
+      "status": "ALLOCATED PORTABLE",
+      "domain": "xdeer.com"
+    },
+    {
+      "netblock": "103.136.68.0/24",
+      "id": "EXOBROADBAND",
+      "name": "NikitaBobyk",
+      "country": "SG",
+      "size": "256",
+      "status": "ALLOCATED NON-PORTABLE",
+      "domain": "leotechltd.com"
+    },
+    {
+      "netblock": "103.99.52.0/24",
+      "id": "WIT-CN",
+      "name": "Hengda City 11-2-104",
+      "country": "CN",
+      "size": "256",
+      "status": "ALLOCATED PORTABLE",
+      "domain": "witlayer.cn"
+    },
+    {
+      "netblock": "104.166.127.0/24",
+      "id": "WIRES",
+      "name": "Wires LLC",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "wireshq.com"
+    },
+    {
+      "netblock": "104.239.87.0/24",
+      "id": "BAXET-GROUP",
+      "name": "Baxet Group Inc.",
+      "country": "TR",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "134.195.96.0/24",
+      "id": "FLEXBE",
+      "name": "Flexbe Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "flexbenet.com"
+    },
+    {
+      "netblock": "134.195.99.0/24",
+      "id": "FLEXBE",
+      "name": "Flexbe Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "flexbenet.com"
+    },
+    {
+      "netblock": "141.195.112.0/24",
+      "id": "KEMONO-NET",
+      "name": "Kemono Network INC.",
+      "country": "CA",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": null
+    },
+    {
+      "netblock": "155.254.192.0/24",
+      "id": "DATALINK",
+      "name": "Datalink LLC",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "datalinksoftware.com"
+    },
+    {
+      "netblock": "155.254.195.0/24",
+      "id": "DATALINK",
+      "name": "Datalink LLC",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "datalinksoftware.com"
+    },
+    {
+      "netblock": "163.123.141.0/24",
+      "id": "SERVERION",
+      "name": "Serverion LLC",
+      "country": "US",
+      "size": "256",
+      "status": "REASSIGNMENT",
+      "domain": "serverion.com"
+    },
+    {
+      "netblock": "166.1.155.0/24",
+      "id": "ACE-NETWORK-10",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.1.18.0/24",
+      "id": "ACE-NETWORK-10",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.1.190.0/24",
+      "id": "ACE-NETWORK-10",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.1.201.0/24",
+      "id": "ACE-NETWORK-10",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.1.22.0/24",
+      "id": "ACE-NETWORK-10",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.1.221.0/24",
+      "id": "ACE-NETWORK-10",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.1.43.0/24",
+      "id": "ACE-NETWORK-10",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.130.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.159.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.164.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.174.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.182.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.197.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.228.0/24",
+      "id": "NET-166-88-228-0",
+      "name": "Omega Computers",
+      "country": "US",
+      "size": "256",
+      "status": "REASSIGNMENT",
+      "domain": "omegacomputers.net"
+    },
+    {
+      "netblock": "166.88.239.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "166.88.253.0/24",
+      "id": "ADCIL",
+      "name": "Ace Data Centers II, L.L.C.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "185.121.134.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "Baxet Group Inc.",
+      "country": "AT",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "185.141.219.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "RCS Technologies FZE LLC",
+      "country": "JP",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "rcstech.ae"
+    },
+    {
+      "netblock": "185.143.222.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "FR",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "185.36.125.0/24",
+      "id": "NO-MNS-20130930",
+      "name": "VIXLY AS",
+      "country": "NO",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "vixly.com"
+    },
+    {
+      "netblock": "185.72.8.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "188.208.110.0/24",
+      "id": "AE-RCSTECHNOLOGIES-20090508",
+      "name": "RCS Technologies FZE LLC",
+      "country": "AE",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "rcstech.ae"
+    },
+    {
+      "netblock": "192.124.176.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "SG",
+      "size": "256",
+      "status": "LEGACY",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "192.124.209.0/24",
+      "id": "RELIABLE",
+      "name": "Reliable Communications s.r.o.",
+      "country": "JP",
+      "size": "256",
+      "status": "LEGACY",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "193.124.22.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "LV",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "193.124.41.0/24",
+      "id": "BAXET_GROUP_INC",
+      "name": "Reliable Communications s.r.o.",
+      "country": "PL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "193.124.46.0/24",
+      "id": "BAXETGROUP",
+      "name": "Baxet Group Inc.",
+      "country": "TR",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "194.58.34.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "LV",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "194.58.39.0/24",
+      "id": "CZ-RELCOM-19940613",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "194.58.40.0/24",
+      "id": "BAXET",
+      "name": "Reliable Communications s.r.o.",
+      "country": "NL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "194.58.44.0/24",
+      "id": "CZ-RELCOM-19940613",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "194.58.45.0/24",
+      "id": "CZ-RELCOM-19940613",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "194.58.66.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "Reliable Communications s.r.o.",
+      "country": "SI",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "194.58.68.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "NL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "194.87.10.0/24",
+      "id": "BAXET",
+      "name": "Reliable Communications s.r.o.",
+      "country": "SG",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "194.87.18.0/24",
+      "id": "BAXET",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CH",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "194.87.198.0/24",
+      "id": "CZ-RELCOM-19940901",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "194.87.227.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "Baxet Group Inc.",
+      "country": "DE",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "194.87.230.0/24",
+      "id": "BAXET",
+      "name": "Reliable Communications s.r.o.",
+      "country": "BG",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "194.87.30.0/24",
+      "id": "CZ-RELCOM-19940901",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "194.87.39.0/24",
+      "id": "BAXET",
+      "name": "Reliable Communications s.r.o.",
+      "country": "TR",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "194.87.47.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "IT",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "194.87.82.0/24",
+      "id": "CZ-RELCOM-19940901",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "195.133.67.0/24",
+      "id": "BAXET",
+      "name": "Reliable Communications s.r.o.",
+      "country": "DE",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "195.133.92.0/24",
+      "id": "CZ-RELCOM-19970415",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "207.174.30.0/24",
+      "id": "IPFB-NETWORK",
+      "name": "IPFB LLC",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "ipv4fb.com"
+    },
+    {
+      "netblock": "207.174.31.0/24",
+      "id": "IPFB-NETWORK",
+      "name": "IPFB LLC",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "ipv4fb.com"
+    },
+    {
+      "netblock": "207.90.236.0/24",
+      "id": "BX-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "207.90.237.0/24",
+      "id": "BX-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "207.90.238.0/24",
+      "id": "BX-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "207.90.239.0/24",
+      "id": "BX-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "212.192.12.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "HK",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "212.192.13.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "212.192.15.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "HK",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "212.192.215.0/24",
+      "id": "BAXET-GROUP",
+      "name": "Baxet Group Inc.",
+      "country": "NL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "212.192.221.0/24",
+      "id": "CZ-RELCOM-19980115",
+      "name": "Reliable Communications s.r.o.",
+      "country": "RU",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "212.192.223.0/24",
+      "id": "CZ-RELCOM-19980115",
+      "name": "Reliable Communications s.r.o.",
+      "country": "RU",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
+    },
+    {
+      "netblock": "212.193.1.0/24",
+      "id": "BAXET",
+      "name": "Reliable Communications s.r.o.",
+      "country": "NL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "reliablecom.com"
+    },
+    {
+      "netblock": "212.193.2.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "Baxet Group Inc.",
+      "country": "FR",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "213.182.204.0/24",
+      "id": "BAXET",
+      "name": "Baxet Group Inc.",
+      "country": "ES",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "23.164.240.0/24",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2.58.95.0/24",
+      "id": "BG-NETERRAIP-20190321",
+      "name": "Neterra Ltd.",
+      "country": "BG",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "neterra.net"
+    },
+    {
+      "netblock": "31.13.248.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "Baxet Group Inc.",
+      "country": "BG",
+      "size": "256",
+      "status": "SUB-ALLOCATED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "31.192.244.0/24",
+      "id": "INTERLIR",
+      "name": "ahbr company limited",
+      "country": "DE",
+      "size": "256",
+      "status": "SUB-ALLOCATED PA",
+      "domain": "abstation.net"
+    },
+    {
+      "netblock": "38.114.102.0/24",
+      "id": "BAXET-CGNT-NET-1",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "REALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "38.114.103.0/24",
+      "id": "BAXET-CGNT-NET-1",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "REALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "38.135.52.0/24",
+      "id": "NET4-2687340016",
+      "name": "Baxet Group Inc",
+      "country": "US",
+      "size": "256",
+      "status": null,
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "38.135.53.0/24",
+      "id": "NET4-2687340016",
+      "name": "Baxet Group Inc",
+      "country": "US",
+      "size": "256",
+      "status": null,
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "38.135.54.0/24",
+      "id": "NET4-2687340016",
+      "name": "Baxet Group Inc",
+      "country": "US",
+      "size": "256",
+      "status": null,
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "38.135.55.0/24",
+      "id": "NET4-2687340016",
+      "name": "Baxet Group Inc",
+      "country": "US",
+      "size": "256",
+      "status": null,
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "45.143.5.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "45.144.172.0/24",
+      "id": "AE-RCSTECHNOLOGIES-20190822",
+      "name": "RCS Technologies FZE LLC",
+      "country": "DE",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "rcstech.ae"
+    },
+    {
+      "netblock": "45.144.174.0/24",
+      "id": "AE-RCSTECHNOLOGIES-20190822",
+      "name": "RCS Technologies FZE LLC",
+      "country": "DE",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "rcstech.ae"
+    },
+    {
+      "netblock": "50.114.177.0/24",
+      "id": "ACE-NETWORK-4",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "50.114.178.0/24",
+      "id": "ACE-NETWORK-4",
+      "name": "Ace Data Centers, Inc.",
+      "country": "US",
+      "size": "256",
+      "status": "ALLOCATION",
+      "domain": "acedatacenter.com"
+    },
+    {
+      "netblock": "5.144.178.0/24",
+      "id": "INTERLIR",
+      "name": "ahbr company limited",
+      "country": "DE",
+      "size": "256",
+      "status": "SUB-ALLOCATED PA",
+      "domain": "abstation.net"
+    },
+    {
+      "netblock": "5.39.250.0/24",
+      "id": "INTERLIR",
+      "name": "ahbr company limited",
+      "country": "DE",
+      "size": "256",
+      "status": "SUB-ALLOCATED PA",
+      "domain": "abstation.net"
+    },
+    {
+      "netblock": "5.39.252.0/24",
+      "id": "INTERLIR",
+      "name": "ahbr company limited",
+      "country": "DE",
+      "size": "256",
+      "status": "SUB-ALLOCATED PA",
+      "domain": "abstation.net"
+    },
+    {
+      "netblock": "5.39.254.0/24",
+      "id": "INTERLIR",
+      "name": "ahbr company limited",
+      "country": "DE",
+      "size": "256",
+      "status": "SUB-ALLOCATED PA",
+      "domain": "abstation.net"
+    },
+    {
+      "netblock": "62.76.234.0/24",
+      "id": "BG-NETWORK",
+      "name": "Baxet Group Inc.",
+      "country": "IT",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "62.76.239.0/24",
+      "id": "BAXET-GROUP",
+      "name": "Baxet Group Inc.",
+      "country": "LV",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "81.29.149.0/24",
+      "id": "BAXET-GROUP-INC",
+      "name": "Baxet Group Inc.",
+      "country": "NO",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "86.107.100.0/24",
+      "id": "AE-RCSTECHNOLOGIES-20050418",
+      "name": "RCS Technologies FZE LLC",
+      "country": "DE",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "rcstech.ae"
+    },
+    {
+      "netblock": "88.151.195.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "UA",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.202.0/23",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "GB",
+      "size": "512",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.218.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "FR",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.219.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "FI",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.221.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "PL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.222.0/23",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "DE",
+      "size": "512",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.232.0/23",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "DE",
+      "size": "512",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.236.0/23",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "HK",
+      "size": "512",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.238.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "GB",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.239.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "US",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.240.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "NL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.241.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "NL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.242.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "ES",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.243.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "ES",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.253.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "PL",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.254.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "FI",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "91.149.255.0/24",
+      "id": "BG-NETWORK",
+      "name": "BG-NETWORK",
+      "country": "FI",
+      "size": "256",
+      "status": "ASSIGNED PA",
+      "domain": "bgnetworking.com"
+    },
+    {
+      "netblock": "92.114.54.0/24",
+      "id": "AE-RCSTECHNOLOGIES-20071015",
+      "name": "RCS Technologies FZE LLC",
+      "country": "NZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "rcstech.ae"
+    },
+    {
+      "netblock": "93.113.171.0/24",
+      "id": "AE-RCSTECHNOLOGIES-20071221",
+      "name": "RCS Technologies FZE LLC",
+      "country": "NL",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "rcstech.ae"
+    },
+    {
+      "netblock": "94.156.116.0/24",
+      "id": "INTERLIR-MARKETPLACE",
+      "name": "InterLIR-Marketplace",
+      "country": "FI",
+      "size": "256",
+      "status": "SUB-ALLOCATED PA",
+      "domain": "interlir.com"
+    }
+  ],
+  "prefixes6": [
+    {
+      "netblock": "2605:e440:11::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:12::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:13::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:14::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:1::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:15::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:16::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:18::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:19::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:21::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:24::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:2::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:26::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:27::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:28::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:29::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:30::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:33::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:34::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:3::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:36::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:4::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:5::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:6::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:7::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:8::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "2605:e440:9::/48",
+      "id": "BAXET-NET",
+      "name": "Baxet Group Inc.",
+      "country": "US",
+      "size": "1208925819614629174706176",
+      "status": "ALLOCATION",
+      "domain": "baxetgroup.com"
+    }
+  ],
+  "peers": [
+    "62563",
+    "56630",
+    "8849",
+    "44477",
+    "135330",
+    "51765",
+    "36352",
+    "61135",
+    "63023"
+  ],
+  "upstreams": [
+    "51765",
+    "61135",
+    "44477",
+    "36352",
+    "56630",
+    "62563",
+    "8849",
+    "135330",
+    "63023"
+  ],
+  "downstreams": null
+}

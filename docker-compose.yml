@@ -1,0 +1,8 @@
+services:
+    best-location:
+        build:
+            context: ./
+            dockerfile: Dockerfile
+        volumes:
+            - $PWD/:/usr/src/best_hoster_location
+        network_mode: host
