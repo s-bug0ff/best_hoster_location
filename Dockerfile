@@ -17,6 +17,8 @@ RUN cpanm --install --force Net::Ping
 RUN cpanm --install --force Net::IP
 RUN cpanm --install --force File::Basename
 RUN cpanm --install --force Log::Log4perl
+RUN cpanm --install --force LWP
+RUN cpanm --install --force LWP::Protocol::https
 
 # clean
 RUN apt-get clean

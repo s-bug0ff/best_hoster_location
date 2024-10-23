@@ -1,61 +1,52 @@
 use strict;
 use warnings;
+no warnings "uninitialized";
 
-use IO::File;
-use Net::Ping;
-use Net::IP;
+use lib qw(.);
+use lib::conf;
+use lib::logger;
+use lib::net;
+use lib::file;
+use lib::downloader;
+use lib::util;
 
-use Data::Dumper   qw(Dumper);
-use JSON::XS       qw(decode_json encode_json);
-use POSIX          qw(ceil strftime);
-use File::Basename qw(dirname);
-use YAML::XS       qw(LoadFile);
-use Log::Log4perl  qw(:easy);
+use Data::Dumper qw(Dumper);
 
-my $work_dir = dirname( __FILE__ );
+my $conf    = lib::conf->new();
+my $objects = init_obj( $conf );
 
-warn 'work_dir = ' . Dumper( $work_dir );
+$objects->{ log }->info( '= = = = = START = = = = =' );
+$objects->{ log }->debug( Dumper( $conf ) );
 
-my $conf = LoadFile( $work_dir . '/script_settings.yml' );
-$conf->{ hosters_asn_path }  = $work_dir . '/db/hosters_asn.yml';                                                  # путь к файлу с описанием хостера и его ASN
-$conf->{ hosters_asn }       = LoadFile( $conf->{ hosters_asn_path } );                                            # список хостеров и их ASN
-$conf->{ asn }               = $conf->{ hosters_asn }->{ $conf->{ hoster_name } };                                 # ASN номер хостера
-$conf->{ log_file }          = sprintf( $work_dir . "/log/%s\_best_hoster_location.log", $conf->{ hoster_name } ); # путь к файлу логов
-$conf->{ country_list_file } = $work_dir . '/db/contry_code.yml';                                                  # путь к asn файлу
-$conf->{ result_save_path }  = $work_dir . "/result/%s\_$conf->{hoster_name}.json";                                # путь к файлу результатов
-$conf->{ hoster_asn_file }   = sprintf( $work_dir . "/info_by_asn/%s.json", $conf->{ asn } );                      # путь к файлу результатов
-$conf->{ country_list }      = LoadFile( $conf->{ country_list_file } );
-Log::Log4perl->easy_init(
-    {
-        file   => ">>  $conf->{ log_file }",
-        layout => '[%p] %d - %R %m%n'
-    }
-);
+$objects->{ downloader }->download_asn_file() if ( $conf->{ script_settings }->{ try_update_asn_file } );
 
-INFO( 'conf = ' . Dumper( $conf ) );
-INFO( '= = = = = START = = = = =' );
-my $hoster_info = read_asn_file( $conf->{ hoster_asn_file } );
+my $hoster_info = $objects->{ util }->group_asn_by_country(
+    $objects->{ file }->read_file( { file_path => $conf->{ asn_file_path }, need_decode => 1 } ) );
 
 foreach my $country ( keys %$hoster_info ) {
     foreach my $info ( @{ $hoster_info->{ $country }->{ info } } ) {
-        my $ips = get_ips_array( $info->{ netblock } );
+        my $ips
+            = $objects->{ util }->get_random_ip_pool( $objects->{ net }->get_all_all_ip_by_netblock( $info->{ netblock } ) );
 
         foreach my $ip ( @$ips ) {
-            INFO( "$info->{ country }::ip = $ip" );
-            my @pings = get_ping( $ip );
-            push( @{ $hoster_info->{ $country }->{ pings } }, @pings );
-            my $avg_ping = calculate_avg_ping( \@pings );
-            if ( defined $avg_ping && !defined $hoster_info->{ $country }->{ hops } && $avg_ping <= $conf->{ max_ping } ) {
-                $hoster_info->{ $country }->{ hops } = traceroute( $ip );
+            my $pings = $objects->{ net }->ping( $ip );
+            push( @{ $hoster_info->{ $country }->{ pings } }, @$pings );
+            my $avg_ping = $objects->{ util }->calculate_avg_ping( $pings );
+            if ( defined $avg_ping ) {
+                if ( !defined $hoster_info->{ $country }->{ hops } && $avg_ping <= $conf->{ script_settings }->{ max_avg_ping } ) {
+                    $hoster_info->{ $country }->{ hops } = $objects->{ net }->traceroute( $ip );
+                }
             }
+            $objects->{ log }->info( "[$country]ip = $ip; avg_ping ~ $avg_ping; hops ~ $hoster_info->{ $country }->{ hops }" );
         }
     }
     delete $hoster_info->{ $country }->{ info };
-    $hoster_info->{ $country }->{ avg_ping } = calculate_avg_ping( $hoster_info->{ $country }->{ pings } );
-    $country = $conf->{ country_list }->{ $country };
+    $hoster_info->{ $country }->{ avg_ping }
+        = $objects->{ util }->calculate_avg_ping( $hoster_info->{ $country }->{ pings } );
 }
 
-print_to_file( sprintf( $conf->{ result_save_path }, 'FULL' ), $hoster_info );
+$objects->{ file }
+    ->write_to_file( { file_path => $conf->{ full_result_save_path }, content => $hoster_info, need_encode => 1 } );
 
 foreach my $country ( keys %$hoster_info ) {
     delete $hoster_info->{ $country }->{ pings };
@@ -63,108 +54,54 @@ foreach my $country ( keys %$hoster_info ) {
         delete $hoster_info->{ $country };
         next;
     }
-    delete $hoster_info->{ $country } if ( $hoster_info->{ $country }->{ avg_ping } > $conf->{ max_ping } );
+    delete $hoster_info->{ $country }
+        if ( $hoster_info->{ $country }->{ avg_ping } > $conf->{ script_settings }->{ max_avg_ping } );
 }
 
-print_to_file( sprintf( $conf->{ result_save_path }, 'BEST' ), $hoster_info );
+$objects->{ file }
+    ->write_to_file( { file_path => $conf->{ best_result_save_path }, content => $hoster_info, need_encode => 1 } );
 
-INFO( ' = = = = = FINISH = = = = =' );
+$objects->{ log }->info( ' = = = = = FINISH = = = = =' );
 
 exit;
 
-sub get_ping {
-    my $ip = shift;
+sub init_obj {
+    my $conf = shift;
 
-    my @ping_results;
+    my $logger_obj
+        = lib::logger->new( { debug => $conf->{ script_settings }->{ debug }, log_path => $conf->{ log_path } } );
 
-    foreach ( 1 .. $conf->{ number_pings_to_one_ip } ) {
-        my ( $got_response, $ping ) = Net::Ping->new()->ping( $ip );
-        sleep( 0.5 );
-        if ( $got_response ) {
-            push( @ping_results, sprintf( "%.3f", $ping * 1000 ) );
-        } else {
-            push( @ping_results, undef );
+    my $util_obj = lib::util->new(
+        { number_ip_poll => $conf->{ script_settings }->{ number_pings_to_one_ip }, log => $logger_obj } );
+
+    my $net_obj = lib::net->new(
+        {
+            number_pings_to_one_ip => $conf->{ script_settings }->{ number_pings_to_one_ip },
+            log                    => $logger_obj,
+            util                   => $util_obj,
         }
+    );
+
+    my $file_obj = lib::file->new( { log => $logger_obj, util => $util_obj } );
+
+    my $downloader_obj = undef;
+    if ( $conf->{ script_settings }->{ try_update_asn_file } ) {
+        $downloader_obj = lib::downloader->new(
+            {
+                asn_file_path => $conf->{ asn_file_path },
+                asn_file_url  => $conf->{ asn_file_url },
+                file          => $file_obj,
+                log           => $logger_obj,
+                util          => $util_obj,
+            }
+        );
     }
 
-    INFO( 'ping_results = ' . Dumper( \@ping_results ) );
-
-    return @ping_results;
-}
-
-sub traceroute {
-    my $ip = shift;
-
-    my $hops         = undef;
-    my $trace_result = `traceroute $ip`;
-    my @trace_rows   = split( /\n/, $trace_result );
-    $hops = $1 if ( $trace_rows[ $#trace_rows ] =~ m/^\s*(\d{1,2})\s{2}.*$/g );
-
-    INFO( "traceroute hops = " . Dumper( $hops ) );
-    return $hops;
-}
-
-sub get_ips_array {
-    my $netblock = shift;
-
-    my @ips;
-    my $result;
-
-    my $ip_obj = Net::IP->new( $netblock );
-    push @ips, $ip_obj->ip() while ( ++$ip_obj );
-
-    foreach ( 1 .. $conf->{ number_ip_poll } ) {
-        push( @$result, $ips[ int rand scalar @ips ] );
-    }
-
-    return $result;
-}
-
-sub print_to_file {
-    my $file   = shift;
-    my $result = shift;
-
-    unlink( $file );
-    my $filehandle = IO::File->new( ">> $file" );
-
-    if ( defined $filehandle ) {
-        print $filehandle encode_json( $result ) . "\n";
-    }
-    $filehandle->close;
-}
-
-sub read_asn_file {
-    my $file = shift;
-
-    my $info_by_asn;
-    my $fh = IO::File->new();
-    if ( $fh->open( "< $file" ) ) {
-        $info_by_asn .= $_ while ( <$fh> );
-    }
-    $fh->close;
-
-    my $grouped_by_country;
-    my $hash = decode_json( $info_by_asn );
-
-    foreach my $info ( @{ $hash->{ prefixes } } ) {
-        push( @{ $grouped_by_country->{ $info->{ country } }->{ info } }, $info );
-    }
-
-    return $grouped_by_country;
-}
-
-sub calculate_avg_ping {
-    my $pings_array = shift;
-
-    my $ping_summ  = undef;
-    my $ping_count = undef;
-
-    foreach my $ping ( @$pings_array ) {
-        if ( defined $ping ) {
-            $ping_summ += $ping;
-            $ping_count++;
-        }
-    }
-
-    return defined $ping_summ && defined $ping_count ? sprintf( "%.3f", ( $ping_summ / $ping_count ) ) : undef;
+    return {
+        log        => $logger_obj,
+        util       => $util_obj,
+        net        => $net_obj,
+        file       => $file_obj,
+        downloader => $downloader_obj
+    };
 }
