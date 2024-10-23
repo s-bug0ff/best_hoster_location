@@ -1,4 +1,4 @@
 .idea
 .vscode
 *.log
-result/**/*.yml
+result/*.json
