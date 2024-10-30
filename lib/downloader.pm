@@ -25,8 +25,9 @@ sub download_asn_file {
     if ( defined $content ) {
         $self->{ log }->info( 'info_by_asn file successfully updated' );
         $self->{ file }->write_to_file( { file_path => $self->{ asn_file_path }, content => $content } );
+    } else {
+        $self->{ log }->info( 'info_by_asn file not updated' );
     }
-    $self->{ log }->info( 'info_by_asn file not updated' );
 }
 
 1;

@@ -45,8 +45,8 @@ foreach my $country ( keys %$hoster_info ) {
         = $objects->{ util }->calculate_avg_ping( $hoster_info->{ $country }->{ pings } );
 }
 
-$objects->{ file }
-    ->write_to_file( { file_path => $conf->{ full_result_save_path }, content => $hoster_info, need_encode => 1 } );
+$objects->{ file }->write_to_file(
+    { file_path => $conf->{ full_result_save_path }, content => $hoster_info, need_encode => 1, pretty => 1 } );
 
 foreach my $country ( keys %$hoster_info ) {
     delete $hoster_info->{ $country }->{ pings };
@@ -58,8 +58,8 @@ foreach my $country ( keys %$hoster_info ) {
         if ( $hoster_info->{ $country }->{ avg_ping } > $conf->{ script_settings }->{ max_avg_ping } );
 }
 
-$objects->{ file }
-    ->write_to_file( { file_path => $conf->{ best_result_save_path }, content => $hoster_info, need_encode => 1 } );
+$objects->{ file }->write_to_file(
+    { file_path => $conf->{ best_result_save_path }, content => $hoster_info, need_encode => 1, pretty => 1 } );
 
 $objects->{ log }->info( ' = = = = = FINISH = = = = =' );
 

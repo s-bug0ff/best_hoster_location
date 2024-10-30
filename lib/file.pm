@@ -47,9 +47,8 @@ sub write_to_file {
     my $self   = shift;
     my $params = shift;
 
-    $self->{ log }->debug( Dumper( $params ) );
-
-    $params->{ content } = $self->json_encode( $params->{ content } ) if ( $params->{ need_encode } );
+    $params->{ content } = $self->json_encode( { content => $params->{ content }, pretty => $params->{ pretty } } )
+        if ( $params->{ need_encode } );
 
     unlink( $params->{ file_path } );
     my $filehandle = IO::File->new( ">> $params->{ file_path }" );
@@ -74,13 +73,17 @@ sub json_decode {
 }
 
 sub json_encode {
-    my $self    = shift;
-    my $content = shift;
+    my $self   = shift;
+    my $params = shift;
 
-    my $encoded_content = eval { encode_json( $content ) };
+    my $json_obj = JSON::XS->new();
+
+    $json_obj->pretty( 1 ) if ( $params->{ pretty } );
+
+    my $encoded_content = eval { $json_obj->encode_json( $params->{ content } ) };
     if ( $@ ) {
         $self->{ log }->warning( "can't encode JSON, return as is" );
-        return $content;
+        return $params->{ content };
     }
 
     return $encoded_content;

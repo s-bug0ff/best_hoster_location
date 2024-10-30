@@ -15,14 +15,4 @@ perl best_hoster_location.pl
 
 ## Use on docker
 
-```
-git clone https://github.com/s-bug0ff/best_hoster_location.git
-```
-
-```
-cd best_hoster_location
-```
-
-```
-docker compose up
-```
+removed

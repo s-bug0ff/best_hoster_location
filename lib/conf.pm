@@ -29,7 +29,8 @@ sub _init_conf {
     $conf->{ hosters_asn_path }     = sprintf( '%s/db/hosters_asn.yml',  $conf->{ work_dir } ); # путь к файлу списока хостеров и их ASN
     $conf->{ script_settings }      = lib::file->new( $conf )->load_yaml( $conf->{ script_settings_path } );
     $conf->{ hosters_asn }          = lib::file->new( $conf )->load_yaml( $conf->{ hosters_asn_path } );
-    $conf->{ asn_file_url }         = sprintf( 'https://ipinfo.io/widget/demo/%s?dataset=asn',
+    die 'unknown hoster' unless ( defined $conf->{ hosters_asn }->{ $conf->{ script_settings }->{ hoster_name } } );
+    $conf->{ asn_file_url } = sprintf( 'https://ipinfo.io/widget/demo/%s?dataset=asn',
         $conf->{ hosters_asn }->{ $conf->{ script_settings }->{ hoster_name } } );
     $conf->{ asn_file_path } = sprintf(
         '%s/info_by_asn/%s.json',
