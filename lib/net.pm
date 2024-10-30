@@ -48,7 +48,7 @@ sub ping {
         ( $min_ping, $max_ping, $avg_ping ) = ( $1, $2, $3 ) if ( $ping_rows[ $#ping_rows ] =~ m/\s*=\s*(\d*)\s*.*\s*=\s*(\d*)\s*.*\s*=\s*(\d*)\s*.*/g );
     } else {
         ( $min_ping, $avg_ping, $max_ping ) = ( $1, $2, $3 )
-            if ( $ping_rows[ $#ping_rows ] =~ m/(\d*\.\d*)\/(\d*\.\d*)\/(\d*\.\d*)/g );
+            if ( $ping_rows[ $#ping_rows ] =~ m/\s*=\s*(\d*\.\d*)\/(\d*\.\d*)\/(\d*\.\d*)/g );
     }
 
     $self->{ log }->debug( 'min_ping = ' . $min_ping );
