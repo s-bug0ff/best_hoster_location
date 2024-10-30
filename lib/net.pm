@@ -45,9 +45,7 @@ sub ping {
     my @ping_rows = split( /\n/, $ping_results );
 
     if ( $self->{ osname } eq 'MSWin32' ) {
-        $min_ping = $1 if ( $ping_rows[ $#ping_rows ] =~ m/Минимальное\s*=\s*(\d*)\s*мсек/g );
-        $max_ping = $1 if ( $ping_rows[ $#ping_rows ] =~ m/Максимальное\s*=\s*(\d*)\s*мсек/g );
-        $avg_ping = $1 if ( $ping_rows[ $#ping_rows ] =~ m/Среднее\s*=\s*(\d*)\s*мсек/g );
+        ( $min_ping, $max_ping, $avg_ping ) = ( $1, $2, $3 ) if ( $ping_rows[ $#ping_rows ] =~ m/\s*=\s*(\d*)\s*.*\s*=\s*(\d*)\s*.*\s*=\s*(\d*)\s*.*/g );
     } else {
         ( $min_ping, $avg_ping, $max_ping ) = ( $1, $2, $3 )
             if ( $ping_rows[ $#ping_rows ] =~ m/(\d*\.\d*)\/(\d*\.\d*)\/(\d*\.\d*)/g );

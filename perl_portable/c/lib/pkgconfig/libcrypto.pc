@@ -1,0 +1,11 @@
+libdir=${pcfiledir}/../../lib
+includedir=${pcfiledir}/../../include
+enginesdir=${pcfiledir}/../../lib/engines-3
+modulesdir=${pcfiledir}/../../lib/ossl-modules
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 3.3.0
+Libs: -L${libdir} -lcrypto
+Libs.private: -lz -lws2_32 -lgdi32 -lcrypt32
+Cflags: -I${includedir}

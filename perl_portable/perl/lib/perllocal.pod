@@ -1,0 +1,7788 @@
+=head2 Sat Aug 10 03:13:15 2024: C<Module> L<Digest::MD5|Digest::MD5>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.59>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:13:19 2024: C<Module> L<Getopt::Long|Getopt::Long>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:13:44 2024: C<Module> L<Math::BigInt|Math::BigInt>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.003003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:13:49 2024: C<Module> L<Module::CoreList|Module::CoreList>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.20240720>
+
+=item *
+
+C<EXE_FILES: corelist>
+
+=back
+
+=head2 Sat Aug 10 03:13:53 2024: C<Module> L<Term::Table|Term::Table>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.022>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:15:08 2024: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.302200>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:15:18 2024: C<Module> L<version|version>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9932>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:15:27 2024: C<Module> L<List::Util|List::Util>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.65>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:15:38 2024: C<Module> L<Pod|Pod>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: v6.0.2>
+
+=item *
+
+C<EXE_FILES: scripts\pod2man scripts\pod2text>
+
+=back
+
+=head2 Sat Aug 10 03:19:14 2024: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.48>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:25 2024: C<Module> L<Path::Tiny|Path::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.146>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:30 2024: C<Module> L<superclass|superclass>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:35 2024: C<Module> L<Test::FailWarnings|Test::FailWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:39 2024: C<Module> L<File::pushd|File::pushd>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.016>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:41 2024: C<Module> L<TAP::Harness::Restricted|TAP::Harness::Restricted>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:47 2024: C<Module> L<Win32::Process|Win32::Process>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:48 2024: C<Module> L<Win32::ShellQuote|Win32::ShellQuote>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:19:50 2024: C<Module> L<IPC::Run|IPC::Run>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20231003.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:00 2024: C<Module> L<IPC::System::Simple|IPC::System::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:06 2024: C<Module> L<IPC::Run3|IPC::Run3>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.049>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:29 2024: C<Module> L<Net::SSLeay|Net::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:33 2024: C<Module> L<Mozilla::CA|Mozilla::CA>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20240730>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:36 2024: C<Module> L<IO::Socket::SSL|IO::Socket::SSL>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.088>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:42 2024: C<Module> L<Clone|Clone>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:44 2024: C<Module> L<LWP::MediaTypes|LWP::MediaTypes>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:46 2024: C<Module> L<Encode::Locale|Encode::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:48 2024: C<Module> L<IO::HTML|IO::HTML>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:51 2024: C<Module> L<Date::Parse|Date::Parse>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:52 2024: C<Module> L<HTTP::Date|HTTP::Date>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:55 2024: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:56 2024: C<Module> L<HTTP::Message|HTTP::Message>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:20:58 2024: C<Module> L<HTTP::Cookies|HTTP::Cookies>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:00 2024: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:02 2024: C<Module> L<WWW::RobotRules|WWW::RobotRules>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:04 2024: C<Module> L<Net::HTTP|Net::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:06 2024: C<Module> L<HTTP::Negotiate|HTTP::Negotiate>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:09 2024: C<Module> L<HTML::Tagset|HTML::Tagset>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:11 2024: C<Module> L<HTML::Parser|HTML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.83>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:13 2024: C<Module> L<File::Listing|File::Listing>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:16 2024: C<Module> L<LWP|LWP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.77>
+
+=item *
+
+C<EXE_FILES: bin/lwp-download bin/lwp-dump bin/lwp-mirror bin/lwp-request>
+
+=back
+
+=head2 Sat Aug 10 03:21:27 2024: C<Module> L<Test::Needs|Test::Needs>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:33 2024: C<Module> L<Test::RequiresInternet|Test::RequiresInternet>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:38 2024: C<Module> L<LWP::Protocol::https|LWP::Protocol::https>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:21:42 2024: C<Module> L<App::cpanminus|App::cpanminus>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7047>
+
+=item *
+
+C<EXE_FILES: bin/cpanm>
+
+=back
+
+=head2 Sat Aug 10 03:21:46 2024: C<Module> L<ExtUtils::Depends|ExtUtils::Depends>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.8000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:22:25 2024: C<Module> L<BerkeleyDB|BerkeleyDB>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.65>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:22:34 2024: C<Module> L<DB_File|DB_File>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.859>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:24:47 2024: C<Module> L<Sub::Uplevel|Sub::Uplevel>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2800>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:24:52 2024: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.37>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:24:58 2024: C<Module> L<Test::Exception|Test::Exception>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.43>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:25:08 2024: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.204>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:25:36 2024: C<Module> L<Module::Pluggable|Module::Pluggable>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:25:41 2024: C<Module> L<B::Lint|B::Lint>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:25:46 2024: C<Module> L<Archive::Extract|Archive::Extract>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.88>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:25:53 2024: C<Module> L<Log::Message|Log::Message>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:25:56 2024: C<Module> L<Log::Message::Simple|Log::Message::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:25:59 2024: C<Module> L<Term::UI|Term::UI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:26:02 2024: C<Module> L<Object::Accessor|Object::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.48>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:26:05 2024: C<Module> L<Package::Constants|Package::Constants>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:26:38 2024: C<Module> L<CPANPLUS|CPANPLUS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9914>
+
+=item *
+
+C<EXE_FILES: bin/cpan2dist bin/cpanp bin/cpanp-run-perl>
+
+=back
+
+=head2 Sat Aug 10 03:26:55 2024: C<Module> L<CPANPLUS::Dist::Build|CPANPLUS::Dist::Build>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.90>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:26:59 2024: C<Module> L<File::CheckTree|File::CheckTree>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.42>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:27:06 2024: C<Module> L<Text::Soundex|Text::Soundex>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:27:13 2024: C<Module> L<File::Slurp::Tiny|File::Slurp::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:27:16 2024: C<Module> L<Tree::DAG_Node|Tree::DAG_Node>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:27:23 2024: C<Module> L<Pod::Parser|Pod::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.65_01>
+
+=item *
+
+C<EXE_FILES: scripts\podselect>
+
+=back
+
+=head2 Sat Aug 10 03:28:10 2024: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:28:25 2024: C<Module> L<Cpanel::JSON::XS|Cpanel::JSON::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.38>
+
+=item *
+
+C<EXE_FILES: bin/cpanel_json_xs>
+
+=back
+
+=head2 Sat Aug 10 03:28:29 2024: C<Module> L<Canary::Stability|Canary::Stability>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:28:32 2024: C<Module> L<common::sense|common::sense>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:28:34 2024: C<Module> L<Types::Serialiser|Types::Serialiser>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:28:41 2024: C<Module> L<JSON::XS|JSON::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.03>
+
+=item *
+
+C<EXE_FILES: bin/json_xs>
+
+=back
+
+=head2 Sat Aug 10 03:28:47 2024: C<Module> L<JSON::MaybeXS|JSON::MaybeXS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:28:57 2024: C<Module> L<Spiffy|Spiffy>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:29:00 2024: C<Module> L<Algorithm::Diff|Algorithm::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.201>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:29:03 2024: C<Module> L<Text::Diff|Text::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:29:20 2024: C<Module> L<Test::Base|Test::Base>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.89>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:29:22 2024: C<Module> L<Test::YAML|Test::YAML>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: bin/test-yaml>
+
+=back
+
+=head2 Sat Aug 10 03:29:38 2024: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:29:45 2024: C<Module> L<YAML::Tiny|YAML::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.74>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:29:59 2024: C<Module> L<YAML::LibYAML|YAML::LibYAML>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.89>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:32:42 2024: C<Module> L<PkgConfig|PkgConfig>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25026>
+
+=item *
+
+C<EXE_FILES: script/pkg-config>
+
+=back
+
+=head2 Sat Aug 10 03:32:57 2024: C<Module> L<ExtUtils::PkgConfig|ExtUtils::PkgConfig>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:33:30 2024: C<Module> L<Win32API::Registry|Win32API::Registry>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:33:36 2024: C<Module> L<Win32::WinError|Win32::WinError>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:33:38 2024: C<Module> L<Win32::TieRegistry|Win32::TieRegistry>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:33:44 2024: C<Module> L<Win32::OLE|Win32::OLE>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1713>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:33:50 2024: C<Module> L<Win32::GuiTest|Win32::GuiTest>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.64>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:33:55 2024: C<Module> L<Encode::compat|Encode::compat>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:34:04 2024: C<Module> L<Math::Int64|Math::Int64>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.57>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:34:12 2024: C<Module> L<Win32::API|Win32::API>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.84>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:34:26 2024: C<Module> L<XML::Parser|XML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.47>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:34:31 2024: C<Module> L<XML::NamespaceSupport|XML::NamespaceSupport>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:34:37 2024: C<Module> L<XML::SAX::Base|XML::SAX::Base>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:34:42 2024: C<Module> L<XML::SAX|XML::SAX>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:34:46 2024: C<Module> L<XML::SAX::Expat|XML::SAX::Expat>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:35:02 2024: C<Module> L<XML::Simple|XML::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:35:06 2024: C<Module> L<Parse::Binary|Parse::Binary>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:35:21 2024: C<Module> L<Win32::Exe|Win32::Exe>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: script/exe_update.pl>
+
+=back
+
+=head2 Sat Aug 10 03:35:27 2024: C<Module> L<Win32::Pipe|Win32::Pipe>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.025>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:35:41 2024: C<Module> L<Win32::Daemon|Win32::Daemon>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20200728>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:35:46 2024: C<Module> L<Win32::EventLog|Win32::EventLog>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.077>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:35:52 2024: C<Module> L<Win32::File|Win32::File>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:35:55 2024: C<Module> L<Win32::File::Object|Win32::File::Object>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:09 2024: C<Module> L<Win32::UTCFileTime|Win32::UTCFileTime>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:15 2024: C<Module> L<Win32::Console|Win32::Console>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:20 2024: C<Module> L<Win32::Job|Win32::Job>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:29 2024: C<Module> L<Class::Method::Modifiers|Class::Method::Modifiers>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:35 2024: C<Module> L<Sub::Quote|Sub::Quote>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.006008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:40 2024: C<Module> L<Role::Tiny|Role::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.002004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:53 2024: C<Module> L<Moo|Moo>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.005005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:36:57 2024: C<Module> L<Win32::Service|Win32::Service>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:37:00 2024: C<Module> L<Win32::ServiceManager|Win32::ServiceManager>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003000>
+
+=item *
+
+C<EXE_FILES: bin/nssm_32.exe bin/nssm_64.exe>
+
+=back
+
+=head2 Sat Aug 10 03:37:13 2024: C<Module> L<Win32::Console::ANSI|Win32::Console::ANSI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11_001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:37:18 2024: C<Module> L<Win32::Clipboard|Win32::Clipboard>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:37:22 2024: C<Module> L<Win32::SerialPort|Win32::SerialPort>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:37:30 2024: C<Module> L<Sys::Syslog|Sys::Syslog>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:37:35 2024: C<Module> L<Term::ReadKey|Term::ReadKey>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:37:39 2024: C<Module> L<Term::ReadLine|Term::ReadLine>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0303>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:37:58 2024: C<Module> L<Archive::Zip|Archive::Zip>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.68>
+
+=item *
+
+C<EXE_FILES: script/crc32>
+
+=back
+
+=head2 Sat Aug 10 03:38:07 2024: C<Module> L<Test::Differences|Test::Differences>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.71>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:38:15 2024: C<Module> L<Pod::Markdown|Pod::Markdown>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.400>
+
+=item *
+
+C<EXE_FILES: bin/pod2markdown>
+
+=back
+
+=head2 Sat Aug 10 03:38:20 2024: C<Module> L<Compress::Raw::Lzma|Compress::Raw::Lzma>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.212>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:38:39 2024: C<Module> L<IO::Compress::Lzma|IO::Compress::Lzma>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.212>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:38:44 2024: C<Module> L<Compress::unLZMA|Compress::unLZMA>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:19 2024: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:27 2024: C<Module> L<Test::Warnings|Test::Warnings>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.033>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:34 2024: C<Module> L<Test::File|Test::File>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.993>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:38 2024: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.017>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:45 2024: C<Module> L<File::Copy::Recursive|File::Copy::Recursive>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:51 2024: C<Module> L<Text::Glob|Text::Glob>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:53 2024: C<Module> L<Number::Compare|Number::Compare>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:39:57 2024: C<Module> L<File::Find::Rule|File::Find::Rule>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34_01>
+
+=item *
+
+C<EXE_FILES: findrule>
+
+=back
+
+=head2 Sat Aug 10 03:40:01 2024: C<Module> L<File::Which|File::Which>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:40:04 2024: C<Module> L<File::HomeDir|File::HomeDir>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:40:10 2024: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:40:14 2024: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.118>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:40:20 2024: C<Module> L<Sub::Exporter::Progressive|Sub::Exporter::Progressive>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:40:34 2024: C<Module> L<File::Slurp|File::Slurp>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 9999.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:40:38 2024: C<Module> L<File::Slurper|File::Slurper>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:40:55 2024: C<Module> L<IO::All|IO::All>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.87>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:41:05 2024: C<Module> L<Mock::Config|Mock::Config>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:41:37 2024: C<Module> L<Devel::CheckLib|Devel::CheckLib>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.16>
+
+=item *
+
+C<EXE_FILES: bin/use-devel-checklib>
+
+=back
+
+=head2 Sat Aug 10 03:41:40 2024: C<Module> L<Math::Round|Math::Round>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:41:50 2024: C<Module> L<Math::BigInt::GMP|Math::BigInt::GMP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:41:59 2024: C<Module> L<File::chdir|File::chdir>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1011>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:42:04 2024: C<Module> L<FFI::CheckLib|FFI::CheckLib>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:43:03 2024: C<Module> L<Alien::Build|Alien::Build>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.83>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:43:14 2024: C<Module> L<Alien::GMP|Alien::GMP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:43:18 2024: C<Module> L<Math::GMP|Math::GMP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:44:03 2024: C<Module> L<Math::MPFR|Math::MPFR>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:44:35 2024: C<Module> L<Math::MPC|Math::MPC>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:44:40 2024: C<Module> L<ExtUtils::F77|ExtUtils::F77>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.26>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:45:19 2024: C<Module> L<Net::SSH2|Net::SSH2>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.73>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:45:23 2024: C<Module> L<Net::Telnet|Net::Telnet>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:45:29 2024: C<Module> L<Socket6|Socket6>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29_02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:45:39 2024: C<Module> L<IO::Socket::Socks|IO::Socket::Socks>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.74>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:45:45 2024: C<Module> L<Test::NoWarnings|Test::NoWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:45:57 2024: C<Module> L<CGI|CGI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.66>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:46:17 2024: C<Module> L<HTTP::Server::Simple|HTTP::Server::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.52>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:46:43 2024: C<Module> L<Crypt::SSLeay|Crypt::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.72>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:47:56 2024: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 9.37>
+
+=item *
+
+C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
+
+=back
+
+=head2 Sat Aug 10 03:48:00 2024: C<Module> L<HTML::Form|HTML::Form>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:48:04 2024: C<Module> L<WWW::Mechanize|WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.18>
+
+=item *
+
+C<EXE_FILES: script/mech-dump>
+
+=back
+
+=head2 Sat Aug 10 03:48:35 2024: C<Module> L<Alien::Build::Plugin::Download::GitLab|Alien::Build::Plugin::Download::GitLab>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:48:46 2024: C<Module> L<Alien::Libxml2|Alien::Libxml2>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:49:09 2024: C<Module> L<XML::LibXML|XML::LibXML>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.0210>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:49:27 2024: C<Module> L<XML::LibXSLT|XML::LibXSLT>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.003000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:50:06 2024: C<Module> L<XML::Twig|XML::Twig>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.52>
+
+=item *
+
+C<EXE_FILES: tools/xml_grep/xml_grep tools/xml_merge/xml_merge tools/xml_pp/xml_pp tools/xml_spellcheck/xml_spellcheck tools/xml_split/xml_split>
+
+=back
+
+=head2 Sat Aug 10 03:50:11 2024: C<Module> L<IO::Stringy|IO::Stringy>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.113>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:50:16 2024: C<Module> L<Text::Patch|Text::Patch>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.8>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:50:36 2024: C<Module> L<Text::CSV|Text::CSV>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:50:58 2024: C<Module> L<Text::CSV_XS|Text::CSV_XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.56>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:59:20 2024: C<Module> L<Excel::Writer::XLSX|Excel::Writer::XLSX>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: bin/extract_vba>
+
+=back
+
+=head2 Sat Aug 10 03:59:29 2024: C<Module> L<OLE::Storage_Lite|OLE::Storage_Lite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:59:40 2024: C<Module> L<Spreadsheet::WriteExcel|Spreadsheet::WriteExcel>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.40>
+
+=item *
+
+C<EXE_FILES: bin/chartex>
+
+=back
+
+=head2 Sat Aug 10 03:59:44 2024: C<Module> L<Crypt::RC4|Crypt::RC4>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:59:47 2024: C<Module> L<Digest::Perl::MD5|Digest::Perl::MD5>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 03:59:56 2024: C<Module> L<Spreadsheet::ParseExcel|Spreadsheet::ParseExcel>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.66>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:00:28 2024: C<Module> L<Module::Find|Module::Find>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:00:34 2024: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:01:42 2024: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.643>
+
+=item *
+
+C<EXE_FILES: dbilogstrip dbiprof dbiproxy>
+
+=back
+
+=head2 Sat Aug 10 04:02:32 2024: C<Module> L<DBD::SQLite|DBD::SQLite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.74>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:02:41 2024: C<Module> L<Test::Output|Test::Output>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.034>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:02:51 2024: C<Module> L<DBD::ODBC|DBD::ODBC>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.61>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:02:58 2024: C<Module> L<Math::Base::Convert|Math::Base::Convert>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:03:10 2024: C<Module> L<Test::LeakTrace|Test::LeakTrace>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:03:15 2024: C<Module> L<Params::Util|Params::Util>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.102>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:03:24 2024: C<Module> L<SQL::Statement|SQL::Statement>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.414>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:03:38 2024: C<Module> L<DBD::CSV|DBD::CSV>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:03:46 2024: C<Module> L<DBD::ADO|DBD::ADO>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.99>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:03:55 2024: C<Module> L<Test::Without::Module|Test::Without::Module>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:03 2024: C<Module> L<Clone::Choose|Clone::Choose>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:10 2024: C<Module> L<Hash::Merge|Hash::Merge>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.302>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:13 2024: C<Module> L<Data::Dumper::Concise|Data::Dumper::Concise>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.023>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:22 2024: C<Module> L<Class::XSAccessor|Class::XSAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:27 2024: C<Module> L<Sub::Name|Sub::Name>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:37 2024: C<Module> L<Class::Accessor::Grouped|Class::Accessor::Grouped>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:40 2024: C<Module> L<Devel::GlobalDestruction|Devel::GlobalDestruction>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:43 2024: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:48 2024: C<Module> L<Algorithm::C3|Algorithm::C3>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:52 2024: C<Module> L<Class::C3|Class::C3>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:55 2024: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:04:58 2024: C<Module> L<Class::C3::Componentised|Class::C3::Componentised>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:02 2024: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:11 2024: C<Module> L<Package::Stash::XS|Package::Stash::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:15 2024: C<Module> L<Test::Requires|Test::Requires>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:20 2024: C<Module> L<Module::Implementation|Module::Implementation>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:23 2024: C<Module> L<CPAN::Meta::Check|CPAN::Meta::Check>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.018>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:29 2024: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.40>
+
+=item *
+
+C<EXE_FILES: bin/package-stash-conflicts>
+
+=back
+
+=head2 Sat Aug 10 04:05:39 2024: C<Module> L<SQL::Abstract|SQL::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:44 2024: C<Module> L<SQL::Abstract::Classic|SQL::Abstract::Classic>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.91>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:05:48 2024: C<Module> L<Context::Preserve|Context::Preserve>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:06:00 2024: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.64>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:06:04 2024: C<Module> L<B::Hooks::EndOfScope|B::Hooks::EndOfScope>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:06:10 2024: C<Module> L<namespace::clean|namespace::clean>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:08:50 2024: C<Module> L<DBIx::Class|DBIx::Class>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.082843>
+
+=item *
+
+C<EXE_FILES: script/dbicadmin>
+
+=back
+
+=head2 Sat Aug 10 04:08:55 2024: C<Module> L<DBIx::Simple|DBIx::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.37>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:09:12 2024: C<Module> L<DBD::Pg|DBD::Pg>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.8.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:09:45 2024: C<Module> L<Test2::Plugin::NoWarnings|Test2::Plugin::NoWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:09:52 2024: C<Module> L<Class::Data::Inheritable|Class::Data::Inheritable>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:09:56 2024: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:09:59 2024: C<Module> L<Exception::Class|Exception::Class>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:03 2024: C<Module> L<Eval::Closure|Eval::Closure>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:09 2024: C<Module> L<XString|XString>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:22 2024: C<Module> L<Specio|Specio>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.48>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:29 2024: C<Module> L<Params::ValidationCompiler|Params::ValidationCompiler>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:35 2024: C<Module> L<DateTime::TimeZone::Local::Win32|DateTime::TimeZone::Local::Win32>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:41 2024: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:45 2024: C<Module> L<namespace::autoclean|namespace::autoclean>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:10:49 2024: C<Module> L<Class::Singleton|Class::Singleton>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.6>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:11:00 2024: C<Module> L<DateTime::TimeZone|DateTime::TimeZone>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.62>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:11:14 2024: C<Module> L<Class::Tiny|Class::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:11:18 2024: C<Module> L<Test::File::ShareDir|Test::File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:12:39 2024: C<Module> L<DateTime::Locale|DateTime::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.43>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:13:10 2024: C<Module> L<DateTime|DateTime>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.65>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:13:23 2024: C<Module> L<Test::Number::Delta|Test::Number::Delta>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:13:32 2024: C<Module> L<Time::Moment|Time::Moment>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:13:54 2024: C<Module> L<List::MoreUtils::XS|List::MoreUtils::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.430>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:02 2024: C<Module> L<Exporter::Tiny|Exporter::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.006002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:28 2024: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.430>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:32 2024: C<Module> L<Digest::HMAC|Digest::HMAC>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:35 2024: C<Module> L<enum|enum>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:36 2024: C<Module> L<Win32::IPHelper|Win32::IPHelper>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:38 2024: C<Module> L<Net::DNS|Net::DNS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:42 2024: C<Module> L<Net::Domain::TLD|Net::Domain::TLD>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:55 2024: C<Module> L<Sub::Install|Sub::Install>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.929>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:14:57 2024: C<Module> L<Data::OptList|Data::OptList>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.114>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:15:01 2024: C<Module> L<Class::Load|Class::Load>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:15:07 2024: C<Module> L<Class::Load::XS|Class::Load::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:15:12 2024: C<Module> L<Sub::Exporter|Sub::Exporter>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.991>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:15:16 2024: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:15:19 2024: C<Module> L<Module::Runtime::Conflicts|Module::Runtime::Conflicts>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:15:23 2024: C<Module> L<Devel::OverloadInfo|Devel::OverloadInfo>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:17:54 2024: C<Module> L<Moose|Moose>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.2207>
+
+=item *
+
+C<EXE_FILES: bin/moose-outdated>
+
+=back
+
+=head2 Sat Aug 10 04:18:00 2024: C<Module> L<MIME::Types|MIME::Types>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.26>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:03 2024: C<Module> L<Email::MIME::Encodings|Email::MIME::Encodings>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.317>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:07 2024: C<Module> L<Email::Date::Format|Email::Date::Format>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:11 2024: C<Module> L<Email::Simple|Email::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.218>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:15 2024: C<Module> L<Email::MessageID|Email::MessageID>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.408>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:24 2024: C<Module> L<Text::Unidecode|Text::Unidecode>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:28 2024: C<Module> L<Email::MIME::ContentType|Email::MIME::ContentType>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.028>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:32 2024: C<Module> L<Email::Address::XS|Email::Address::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:37 2024: C<Module> L<Email::MIME|Email::MIME>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.954>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:41 2024: C<Module> L<String::RewritePrefix|String::RewritePrefix>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:46 2024: C<Module> L<Email::MIME::Kit|Email::MIME::Kit>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.000008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:51 2024: C<Module> L<Throwable|Throwable>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:18:54 2024: C<Module> L<Email::Abstract|Email::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:00 2024: C<Module> L<MooX::Types::MooseLike|MooX::Types::MooseLike>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:07 2024: C<Module> L<Email::Sender|Email::Sender>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.601>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:14 2024: C<Module> L<Email::Stuffer|Email::Stuffer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.020>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:21 2024: C<Module> L<MailTools|MailTools>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:27 2024: C<Module> L<Email::Valid|Email::Valid>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.204>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:33 2024: C<Module> L<Test::Pod|Test::Pod>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.52>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:48 2024: C<Module> L<PerlIO::utf8_strict|PerlIO::utf8_strict>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:51 2024: C<Module> L<Mixin::Linewise|Mixin::Linewise>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.111>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:54 2024: C<Module> L<Pod::Eventual|Pod::Eventual>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.094003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:19:58 2024: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:20:02 2024: C<Module> L<Pod::Coverage|Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: bin/pod_cover>
+
+=back
+
+=head2 Sat Aug 10 04:20:04 2024: C<Module> L<Pod::Coverage::TrustPod|Pod::Coverage::TrustPod>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.100006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:20:09 2024: C<Module> L<Test::Pod::Coverage|Test::Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:20:13 2024: C<Module> L<Authen::SASL|Authen::SASL>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.1700>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:20:15 2024: C<Module> L<Net::SMTPS|Net::SMTPS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:20:21 2024: C<Module> L<Net::IMAP::Client|Net::IMAP::Client>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9507>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:23:28 2024: C<Module> L<Imager|Imager>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.024>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:23:43 2024: C<Module> L<MIME::Charset|MIME::Charset>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.013.1>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:23:54 2024: C<Module> L<Unicode::LineBreak|Unicode::LineBreak>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2019.001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:23:58 2024: C<Module> L<String::Print|String::Print>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:02 2024: C<Module> L<Log::Report::Optional|Log::Report::Optional>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:08 2024: C<Module> L<Log::Report|Log::Report>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.37>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:14 2024: C<Module> L<ExtUtils::Helpers|ExtUtils::Helpers>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.027>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:17 2024: C<Module> L<ExtUtils::Config|ExtUtils::Config>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:27 2024: C<Module> L<ExtUtils::HasCompiler|ExtUtils::HasCompiler>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.025>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:29 2024: C<Module> L<CPAN::Requirements::Dynamic|CPAN::Requirements::Dynamic>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:32 2024: C<Module> L<ExtUtils::InstallPaths|ExtUtils::InstallPaths>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:47 2024: C<Module> L<IO::SessionData|IO::SessionData>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:50 2024: C<Module> L<XML::Parser::Lite|XML::Parser::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.722>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:24:53 2024: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:25:21 2024: C<Module> L<SOAP::Lite|SOAP::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.27>
+
+=item *
+
+C<EXE_FILES: bin/SOAPsh.pl bin/stubmaker.pl>
+
+=back
+
+=head2 Sat Aug 10 04:25:25 2024: C<Module> L<CPAN::DistnameInfo|CPAN::DistnameInfo>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:25:31 2024: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000029>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:25:41 2024: C<Module> L<Probe::Perl|Probe::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:25:48 2024: C<Module> L<Test::Script|Test::Script>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:25:51 2024: C<Module> L<pler|pler>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: script/pler>
+
+=back
+
+=head2 Sat Aug 10 04:25:55 2024: C<Module> L<App::module::version|App::module::version>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: script/module-version>
+
+=back
+
+=head2 Sat Aug 10 04:26:02 2024: C<Module> L<IO::Interactive|IO::Interactive>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.025>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:26:05 2024: C<Module> L<App::local::lib::Win32Helper|App::local::lib::Win32Helper>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.992>
+
+=item *
+
+C<EXE_FILES: script/llw32helper.pl>
+
+=back
+
+=head2 Sat Aug 10 04:26:43 2024: C<Module> L<PAR::Dist|PAR::Dist>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.53>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:26:47 2024: C<Module> L<PAR|PAR>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.020>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:26:51 2024: C<Module> L<PAR::Dist::FromPPD|PAR::Dist::FromPPD>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: bin/ppd2par>
+
+=back
+
+=head2 Sat Aug 10 04:26:56 2024: C<Module> L<PAR::Dist::InstallPPD|PAR::Dist::InstallPPD>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: bin/parinstallppd>
+
+=back
+
+=head2 Sat Aug 10 04:27:01 2024: C<Module> L<PAR::Repository::Query|PAR::Repository::Query>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:27:06 2024: C<Module> L<PAR::Repository::Client|PAR::Repository::Client>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:27:24 2024: C<Module> L<Module::ScanDeps|Module::ScanDeps>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.35>
+
+=item *
+
+C<EXE_FILES: script/scandeps.pl>
+
+=back
+
+=head2 Sat Aug 10 04:27:29 2024: C<Module> L<Getopt::ArgvFile|Getopt::ArgvFile>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:32:34 2024: C<Module> L<PAR::Packer|PAR::Packer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.063>
+
+=item *
+
+C<EXE_FILES: script/par.pl script/pp script/tkpp>
+
+=back
+
+=head2 Sat Aug 10 04:32:43 2024: C<Module> L<PPM|PPM>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 11.11_04>
+
+=item *
+
+C<EXE_FILES: bin/ppm.pl>
+
+=back
+
+=head2 Sat Aug 10 04:32:50 2024: C<Module> L<Carp::Always|Carp::Always>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:32:57 2024: C<Module> L<AppConfig|AppConfig>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.71>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:33:28 2024: C<Module> L<Template|Template>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.102>
+
+=item *
+
+C<EXE_FILES: bin/tpage bin/ttree>
+
+=back
+
+=head2 Sat Aug 10 04:33:33 2024: C<Module> L<Template::Tiny|Template::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:33:39 2024: C<Module> L<Carp::Clan|Carp::Clan>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:33:43 2024: C<Module> L<Sub::Exporter::ForMethods|Sub::Exporter::ForMethods>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.100055>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:33:55 2024: C<Module> L<Devel::PartialDump|Devel::PartialDump>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:34:12 2024: C<Module> L<MooseX::ClassAttribute|MooseX::ClassAttribute>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:34:37 2024: C<Module> L<MooseX::NonMoose|MooseX::NonMoose>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.26>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:34:43 2024: C<Module> L<Class::Accessor|Class::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:34:47 2024: C<Module> L<Class::Accessor::Lite|Class::Accessor::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:34:53 2024: C<Module> L<Object::Tiny|Object::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:35:30 2024: C<Module> L<Data::Dump|Data::Dump>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:35:42 2024: C<Module> L<Data::Printer|Data::Printer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:35:52 2024: C<Module> L<B::Utils|B::Utils>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:36:47 2024: C<Module> L<CPAN::SQLite|CPAN::SQLite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.220>
+
+=item *
+
+C<EXE_FILES: bin/cpandb>
+
+=back
+
+=head2 Sat Aug 10 04:38:12 2024: C<Module> L<Type::Tiny|Type::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.004000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:38:17 2024: C<Module> L<FCGI|FCGI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.82>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:38:20 2024: C<Module> L<IO::String|IO::String>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:38:28 2024: C<Module> L<Unicode::UTF8|Unicode::UTF8>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.62>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:38:33 2024: C<Module> L<V|V>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:38:37 2024: C<Module> L<Modern::Perl|Modern::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20240115>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:39:36 2024: C<Module> L<Perl::Tidy|Perl::Tidy>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20240511>
+
+=item *
+
+C<EXE_FILES: bin/perltidy>
+
+=back
+
+=head2 Sat Aug 10 04:39:51 2024: C<Module> L<FFI::Raw|FFI::Raw>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:41:45 2024: C<Module> L<FFI::Platypus|FFI::Platypus>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:41:50 2024: C<Module> L<PadWalker|PadWalker>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.5>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:41:55 2024: C<Module> L<Devel::vscode|Devel::vscode>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:44:52 2024: C<Module> L<Devel::NYTProf|Devel::NYTProf>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.14>
+
+=item *
+
+C<EXE_FILES: bin/flamegraph.pl bin/nytprofcalls bin/nytprofcg bin/nytprofcsv bin/nytprofhtml bin/nytprofmerge>
+
+=back
+
+=head2 Sat Aug 10 04:44:58 2024: C<Module> L<UNIVERSAL::can|UNIVERSAL::can>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20140328>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:45:01 2024: C<Module> L<UNIVERSAL::isa|UNIVERSAL::isa>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20171012>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:45:05 2024: C<Module> L<Test::MockObject|Test::MockObject>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20200122>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:45:10 2024: C<Module> L<String::Escape|String::Escape>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2010.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:59:31 2024: C<Module> L<CPAN::Mini|CPAN::Mini>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.111017>
+
+=item *
+
+C<EXE_FILES: bin/minicpan>
+
+=back
+
+=head2 Sat Aug 10 04:59:38 2024: C<Module> L<LWP::Online|LWP::Online>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 10 04:59:44 2024: C<Module> L<Portable|Portable>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Oct 30 21:36:23 2024: C<Module> L<Log::Log4perl|Log::Log4perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\bug0ff\Documents\GitHub\best_hoster_location\perl_portable\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.57>
+
+=item *
+
+C<EXE_FILES: eg/l4p-tmpl>
+
+=back
+
+=head2 Wed Oct 30 21:38:29 2024: C<Module> L<Net::IP|Net::IP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\bug0ff\Documents\GitHub\best_hoster_location\perl_portable\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.26>
+
+=item *
+
+C<EXE_FILES: ipcount iptab>
+
+=back
+
