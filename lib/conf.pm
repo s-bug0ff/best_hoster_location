@@ -24,6 +24,7 @@ sub new {
 sub _init_conf {
     my $conf;
 
+    $conf->{ osname }               = $^O;
     $conf->{ work_dir }             = dirname( abs_path( $0 ) );
     $conf->{ script_settings_path } = sprintf( '%s/script_settings.yml', $conf->{ work_dir } ); # путь к файлу настроек
     $conf->{ hosters_asn_path }     = sprintf( '%s/db/hosters_asn.yml',  $conf->{ work_dir } ); # путь к файлу списока хостеров и их ASN

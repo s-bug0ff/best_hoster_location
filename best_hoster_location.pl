@@ -29,9 +29,8 @@ foreach my $country ( keys %$hoster_info ) {
             = $objects->{ util }->get_random_ip_pool( $objects->{ net }->get_all_all_ip_by_netblock( $info->{ netblock } ) );
 
         foreach my $ip ( @$ips ) {
-            my $pings = $objects->{ net }->ping( $ip );
-            push( @{ $hoster_info->{ $country }->{ pings } }, @$pings );
-            my $avg_ping = $objects->{ util }->calculate_avg_ping( $pings );
+            my $avg_ping = $objects->{ net }->ping( $ip );
+            push( @{ $hoster_info->{ $country }->{ pings } }, $avg_ping );
             if ( defined $avg_ping ) {
                 if ( !defined $hoster_info->{ $country }->{ hops } && $avg_ping <= $conf->{ script_settings }->{ max_avg_ping } ) {
                     $hoster_info->{ $country }->{ hops } = $objects->{ net }->traceroute( $ip );
@@ -79,6 +78,7 @@ sub init_obj {
             number_pings_to_one_ip => $conf->{ script_settings }->{ number_pings_to_one_ip },
             log                    => $logger_obj,
             util                   => $util_obj,
+            osname                 => $conf->{ osname }
         }
     );
 

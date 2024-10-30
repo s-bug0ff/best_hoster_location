@@ -5,7 +5,6 @@ use warnings;
 no warnings "uninitialized";
 
 use Data::Dumper qw(Dumper);
-use Net::Ping;
 use Net::IP;
 
 sub new {
@@ -34,31 +33,50 @@ sub ping {
     my $self = shift;
     my $ip   = shift;
 
-    my @ping_results;
-
-    foreach ( 1 .. $self->{ number_pings_to_one_ip } ) {
-        my ( $got_response, $ping ) = Net::Ping->new()->ping( $ip );
-        sleep( 0.5 );
-        if ( $got_response ) {
-            push( @ping_results, sprintf( "%.3f", $ping * 1000 ) );
-        } else {
-            push( @ping_results, undef );
-        }
+    my $ping_cmd;
+    if ( $self->{ osname } eq 'MSWin32' ) {
+        $ping_cmd = "ping -n $self->{number_pings_to_one_ip} $ip";
+    } else {
+        $ping_cmd = "ping -c $self->{number_pings_to_one_ip} $ip";
     }
 
-    $self->{ log }->debug( 'ping_results = ' . Dumper( \@ping_results ) );
+    my $ping_results = `$ping_cmd`;
+    my ( $min_ping, $avg_ping, $max_ping );
+    my @ping_rows = split( /\n/, $ping_results );
 
-    return \@ping_results;
+    if ( $self->{ osname } eq 'MSWin32' ) {
+        $min_ping = $1 if ( $ping_rows[ $#ping_rows ] =~ m/Минимальное\s*=\s*(\d*)\s*мсек/g );
+        $max_ping = $1 if ( $ping_rows[ $#ping_rows ] =~ m/Максимальное\s*=\s*(\d*)\s*мсек/g );
+        $avg_ping = $1 if ( $ping_rows[ $#ping_rows ] =~ m/Среднее\s*=\s*(\d*)\s*мсек/g );
+    } else {
+        ( $min_ping, $avg_ping, $max_ping ) = ( $1, $2, $3 )
+            if ( $ping_rows[ $#ping_rows ] =~ m/(\d*\.\d*)\/(\d*\.\d*)\/(\d*\.\d*)/g );
+    }
+
+    $self->{ log }->debug( 'min_ping = ' . $min_ping );
+    $self->{ log }->debug( 'max_ping = ' . $max_ping );
+    $self->{ log }->debug( 'avg_ping = ' . $avg_ping );
+
+    return $avg_ping;
 }
 
 sub traceroute {
     my $self = shift;
     my $ip   = shift;
 
-    my $hops         = undef;
-    my $trace_result = `traceroute $ip`;
+    my $hops = undef;
+    my $trace_cmd;
+
+    if ( $self->{ osname } eq 'MSWin32' ) {
+        $trace_cmd = "tracert $ip";
+    } else {
+        $trace_cmd = "traceroute -I $ip";
+    }
+    my $trace_result = `$trace_cmd`;
+    my @trace_rows   = split( /\n/, $trace_result );
+    @trace_rows = grep { /^\s*\d{1,}\s*/ } @trace_rows;
+
     $self->{ log }->debug( 'trace_result = ' . $trace_result );
-    my @trace_rows = split( /\n/, $trace_result );
     $hops = $1 if ( $trace_rows[ $#trace_rows ] =~ m/^\s*(\d{1,2})\s{2}.*$/g );
 
     return $hops;
