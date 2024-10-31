@@ -1,0 +1,78 @@
+{
+    "asn": "AS215730",
+    "name": "H2NEXUS LTD",
+    "country": "GB",
+    "allocated": "2024-01-11",
+    "registry": "ripe",
+    "domain": "h2.nexus",
+    "num_ips": 4864,
+    "type": "hosting",
+    "prefixes": [
+      {
+        "netblock": "109.120.137.0/24",
+        "id": "H2NEXUS",
+        "name": "H2.NEXUS Frankfurt Network",
+        "country": "DE",
+        "size": "256",
+        "status": "ASSIGNED PA",
+        "domain": "h2.nexus"
+      },
+      {
+        "netblock": "185.125.50.0/24",
+        "id": "H2NEXUS",
+        "name": "H2.NEXUS Frankfurt Network",
+        "country": "DE",
+        "size": "256",
+        "status": "ASSIGNED PA",
+        "domain": "h2.nexus"
+      },
+      {
+        "netblock": "77.91.124.0/24",
+        "id": "H2NEXUS",
+        "name": "H2.NEXUS Frankfurt Network",
+        "country": "DE",
+        "size": "256",
+        "status": "SUB-ALLOCATED PA",
+        "domain": "h2.nexus"
+      },
+      {
+        "netblock": "94.159.96.0/20",
+        "id": "RU-NHT-R",
+        "name": "New Hosting Technologies LLC",
+        "country": "RU",
+        "size": "4096",
+        "status": "SUB-ALLOCATED PA",
+        "domain": "landvps.ru"
+      }
+    ],
+    "prefixes6": [
+      {
+        "netblock": "2a0b:4142::/32",
+        "id": "H2NEXUS",
+        "name": "H2NEXUS LTD",
+        "country": "DE",
+        "size": "79228162514264337593543950336",
+        "status": "ALLOCATED-BY-LIR",
+        "domain": "h2.nexus"
+      },
+      {
+        "netblock": "2a0e:d604:1::/48",
+        "id": "H2NEXUS",
+        "name": "H2NEXUS LTD",
+        "country": "DE",
+        "size": "1208925819614629174706176",
+        "status": "ASSIGNED",
+        "domain": "h2.nexus"
+      }
+    ],
+    "peers": [
+      "203446",
+      "28917",
+      "64289"
+    ],
+    "upstreams": [
+      "28917",
+      "203446"
+    ],
+    "downstreams": null
+  }

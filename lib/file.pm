@@ -6,7 +6,7 @@ no warnings "uninitialized";
 
 use Data::Dumper qw(Dumper);
 use YAML::XS     qw(LoadFile);
-use JSON::XS     qw(decode_json encode_json);
+use JSON::XS     qw(decode_json);
 use IO::File;
 
 sub new {
@@ -80,9 +80,10 @@ sub json_encode {
 
     $json_obj->pretty( 1 ) if ( $params->{ pretty } );
 
-    my $encoded_content = eval { $json_obj->encode_json( $params->{ content } ) };
+    my $encoded_content = eval { $json_obj->encode( $params->{ content } ) };
     if ( $@ ) {
         $self->{ log }->warning( "can't encode JSON, return as is" );
+        $self->{ log }->debug( Dumper( $@ ) );
         return $params->{ content };
     }
 

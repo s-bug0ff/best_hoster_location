@@ -5,7 +5,7 @@
   "allocated": "2022-09-26",
   "registry": "arin",
   "domain": "baxetgroup.com",
-  "num_ips": 30464,
+  "num_ips": 29696,
   "type": "hosting",
   "prefixes": [
     {
@@ -36,15 +36,6 @@
       "domain": "witlayer.cn"
     },
     {
-      "netblock": "104.166.127.0/24",
-      "id": "WIRES",
-      "name": "Wires LLC",
-      "country": "US",
-      "size": "256",
-      "status": "ALLOCATION",
-      "domain": "wireshq.com"
-    },
-    {
       "netblock": "104.239.87.0/24",
       "id": "BAXET-GROUP",
       "name": "Baxet Group Inc.",
@@ -52,15 +43,6 @@
       "size": "256",
       "status": "ASSIGNED PA",
       "domain": "baxetgroup.com"
-    },
-    {
-      "netblock": "134.195.96.0/24",
-      "id": "FLEXBE",
-      "name": "Flexbe Inc.",
-      "country": "US",
-      "size": "256",
-      "status": "ALLOCATION",
-      "domain": "flexbenet.com"
     },
     {
       "netblock": "134.195.99.0/24",
@@ -82,15 +64,6 @@
     },
     {
       "netblock": "155.254.192.0/24",
-      "id": "DATALINK",
-      "name": "Datalink LLC",
-      "country": "US",
-      "size": "256",
-      "status": "ALLOCATION",
-      "domain": "datalinksoftware.com"
-    },
-    {
-      "netblock": "155.254.195.0/24",
       "id": "DATALINK",
       "name": "Datalink LLC",
       "country": "US",
@@ -484,6 +457,15 @@
       "size": "256",
       "status": "ASSIGNED PA",
       "domain": "baxetgroup.com"
+    },
+    {
+      "netblock": "194.87.58.0/24",
+      "id": "CZ-RELCOM-19940901",
+      "name": "Reliable Communications s.r.o.",
+      "country": "CZ",
+      "size": "256",
+      "status": "ALLOCATED PA",
+      "domain": "relcom.com"
     },
     {
       "netblock": "194.87.82.0/24",
@@ -1281,26 +1263,26 @@
     }
   ],
   "peers": [
-    "62563",
     "56630",
     "8849",
-    "44477",
-    "135330",
-    "51765",
     "36352",
+    "44477",
+    "51765",
     "61135",
+    "135330",
+    "62563",
     "63023"
   ],
   "upstreams": [
     "51765",
-    "61135",
-    "44477",
-    "36352",
-    "56630",
-    "62563",
-    "8849",
     "135330",
-    "63023"
+    "62563",
+    "61135",
+    "56630",
+    "63023",
+    "8849",
+    "36352",
+    "44477"
   ],
   "downstreams": null
 }

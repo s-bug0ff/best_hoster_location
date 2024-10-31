@@ -17,14 +17,17 @@ sub new {
     return $self;
 }
 
-sub get_random_ip_pool {
-    my $self = shift;
-    my $ips  = shift;
+sub get_random_elements_from_arrayref {
+    my $self     = shift;
+    my $arrayref = shift;
+    my $count    = shift;
+
+    return $arrayref if ( $count >= scalar $arrayref );
 
     my $result;
 
-    foreach ( 1 .. $self->{ number_ip_poll } ) {
-        push( @$result, @$ips[ int rand scalar @$ips ] );
+    foreach ( 0 .. $count ) {
+        push( @$result, @$arrayref[ int rand scalar @$arrayref ] );
     }
 
     return $result;

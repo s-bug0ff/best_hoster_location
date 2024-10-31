@@ -24,9 +24,17 @@ my $hoster_info = $objects->{ util }->group_asn_by_country(
     $objects->{ file }->read_file( { file_path => $conf->{ asn_file_path }, need_decode => 1 } ) );
 
 foreach my $country ( keys %$hoster_info ) {
-    foreach my $info ( @{ $hoster_info->{ $country }->{ info } } ) {
-        my $ips
-            = $objects->{ util }->get_random_ip_pool( $objects->{ net }->get_all_all_ip_by_netblock( $info->{ netblock } ) );
+    if ( grep { $country eq $_ } @{ $conf->{ script_settings }->{ skip_country_code } } ) {
+        $objects->{ log }->info( "skip country [$country] because country code in skip list" );
+        next;
+    }
+    my $random_prefixes = $objects->{ util }->get_random_elements_from_arrayref( $hoster_info->{ $country }->{ info },
+        $conf->{ script_settings }->{ number_randomly_prefixes_by_country } );
+    foreach my $info ( @{ $random_prefixes } ) {
+        my $ips = $objects->{ util }->get_random_elements_from_arrayref(
+            $objects->{ net }->get_all_ip_by_netblock( $info->{ netblock } ),
+            $conf->{ script_settings }->{ number_randomly_taken_ip_from_netblock }
+        );
 
         foreach my $ip ( @$ips ) {
             my $avg_ping = $objects->{ net }->ping( $ip );
@@ -55,6 +63,8 @@ foreach my $country ( keys %$hoster_info ) {
     }
     delete $hoster_info->{ $country }
         if ( $hoster_info->{ $country }->{ avg_ping } > $conf->{ script_settings }->{ max_avg_ping } );
+    delete $hoster_info->{ $country }
+        if ( $hoster_info->{ $country }->{ hops } > $conf->{ script_settings }->{ max_hops } );
 }
 
 $objects->{ file }->write_to_file(
@@ -70,8 +80,7 @@ sub init_obj {
     my $logger_obj
         = lib::logger->new( { debug => $conf->{ script_settings }->{ debug }, log_path => $conf->{ log_path } } );
 
-    my $util_obj = lib::util->new(
-        { number_ip_poll => $conf->{ script_settings }->{ number_pings_to_one_ip }, log => $logger_obj } );
+    my $util_obj = lib::util->new( { log => $logger_obj } );
 
     my $net_obj = lib::net->new(
         {

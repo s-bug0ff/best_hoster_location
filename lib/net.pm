@@ -17,7 +17,7 @@ sub new {
     return $self;
 }
 
-sub get_all_all_ip_by_netblock {
+sub get_all_ip_by_netblock {
     my $self     = shift;
     my $netblock = shift;
 
