@@ -4,7 +4,6 @@ use strict;
 use warnings;
 no warnings "uninitialized";
 
-use POSIX        qw(ceil);
 use Data::Dumper qw(Dumper);
 
 sub new {
