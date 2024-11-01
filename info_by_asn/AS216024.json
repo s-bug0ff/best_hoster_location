@@ -1,0 +1,77 @@
+{
+    "asn": "AS216024",
+    "name": "ALEKSEI FEDOROV PR KRUSEVAC",
+    "country": "RS",
+    "allocated": "2023-11-08",
+    "registry": "ripe",
+    "domain": "kvmka.com",
+    "num_ips": 1280,
+    "type": "hosting",
+    "prefixes": [
+      {
+        "netblock": "109.107.182.0/24",
+        "id": "KVMKA",
+        "name": "ALEKSEI FEDOROV PR KRUSEVAC",
+        "country": "FI",
+        "size": "256",
+        "status": "ASSIGNED PA",
+        "domain": "kvmka.ru"
+      },
+      {
+        "netblock": "193.38.235.0/24",
+        "id": "NL-KVMKA",
+        "name": "ALEKSEI FEDOROV PR KRUSEVAC",
+        "country": "NL",
+        "size": "256",
+        "status": "ASSIGNED PA",
+        "domain": "kvmka.com"
+      },
+      {
+        "netblock": "194.50.153.0/24",
+        "id": "RU-AREASOFT2-20230213",
+        "name": "AREA SOFT LLC",
+        "country": "NL",
+        "size": "256",
+        "status": "ALLOCATED PA",
+        "domain": "kvmka.com"
+      },
+      {
+        "netblock": "45.15.156.0/24",
+        "id": "DE-KVMKA",
+        "name": "ALEKSEI FEDOROV PR KRUSEVAC",
+        "country": "DE",
+        "size": "256",
+        "status": "ASSIGNED PA",
+        "domain": "kvmka.com"
+      },
+      {
+        "netblock": "77.221.145.0/24",
+        "id": "NL-KVMKA",
+        "name": "ALEKSEI FEDOROV PR KRUSEVAC",
+        "country": "NL",
+        "size": "256",
+        "status": "ASSIGNED PA",
+        "domain": "kvmka.com"
+      }
+    ],
+    "prefixes6": [
+      {
+        "netblock": "2a0f:cdc6:2030::/45",
+        "id": "TUN_NL_AMS_ITNETPASS_V6",
+        "name": "ITNETPASS",
+        "country": "NL",
+        "size": "9671406556917033397649408",
+        "status": "ASSIGNED",
+        "domain": "it.net"
+      }
+    ],
+    "peers": [
+      "51765",
+      "52000"
+    ],
+    "upstreams": [
+      "51765",
+      "52000"
+    ],
+    "downstreams": null
+  }

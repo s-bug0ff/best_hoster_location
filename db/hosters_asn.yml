@@ -1,5 +1,8 @@
-hetzner: AS24940
-aeza: AS210644
-justhost: AS26383
-h2nexus: AS215730
-pq: AS44477
+hetzner: AS24940 # https://www.hetzner.com/
+aeza: AS210644 # https://aeza.net/
+justhost: AS26383 # https://justhost.ru/
+h2nexus: AS215730 # https://h2.nexus/
+pq: AS44477 # https://pq.hosting/
+
+#community
+cloudx: AS216024 # https://cloudx.ru
