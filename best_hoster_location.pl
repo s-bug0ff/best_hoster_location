@@ -26,6 +26,7 @@ my $hoster_info = $objects->{ util }->group_asn_by_country(
 foreach my $country ( keys %$hoster_info ) {
     if ( grep { $country eq $_ } @{ $conf->{ script_settings }->{ skip_country_code } } ) {
         $objects->{ log }->info( "skip country [$country] because country code in skip list" );
+        delete $hoster_info->{ $country };
         next;
     }
     my $random_prefixes = $objects->{ util }->get_random_elements_from_arrayref( $hoster_info->{ $country }->{ info },
